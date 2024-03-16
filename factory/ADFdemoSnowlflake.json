@@ -1,0 +1,9 @@
+{
+	"name": "ADFdemoSnowlflake",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f4a00d2-cce4-4055-8b5c-635b7cac7c13",
+		"tenantId": "7a2f9d48-238d-4f08-a1ba-624c388629aa"
+	}
+}
